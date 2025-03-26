@@ -64,7 +64,7 @@
 - **Running Gear Global Composite Fault Diagnosis Based on Large Model**  
   [TII 2025](https://ieeexplore.ieee.org/abstract/document/10905034)
 
-- **A knowledge-graph enhanced large language model-based fault diagnosticreasoning and maintenance decision support pipeline towards industry 5.0**  
+- **A knowledge-graph enhanced large language model-based fault diagnostic reasoning and maintenance decision support pipeline towards industry 5.0**  
   [IJPR 2025](https://www.tandfonline.com/doi/epdf/10.1080/00207543.2025.2472298?needAccess=true)
 
 Datasets:cranes
