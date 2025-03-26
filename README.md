@@ -1,3 +1,6 @@
+---
+# ![Awesome](https://img.shields.io/badge/Awesome-Yes-brightgreen) ![Last update](https://img.shields.io/badge/Last%20update-20250326-blue) ![Paper number](https://img.shields.io/badge/Paper%20Number-29-orange)
+
 ### **Review/Perspective Papers**
 
 #### 2025
@@ -51,7 +54,50 @@
 
 ### **Research Papers**
 
+
+
 #### 2025
+
+
+- **The interpretable reasoning and intelligent decision-making based on event knowledge graph with LLMs in fault diagnosis scenarios**  
+  [TIM 2025](https://ieeexplore.ieee.org/abstract/document/10925425)
+
+
+- **Running Gear Global Composite Fault Diagnosis Based on Large Model**  
+  [TII 2025](https://ieeexplore.ieee.org/abstract/document/10905034)
+
+
+- **A knowledge-graph enhanced large language model-based fault diagnosticreasoning and maintenance decision support pipeline towards industry 5.0**  
+  [IJPR 2025](https://www.tandfonline.com/doi/epdf/10.1080/00207543.2025.2472298?needAccess=true)
+
+Datasets:cranes
+
+
+
+- **FD-LLM: Large language model for fault diagnosis of complex equipment**  
+  [AEI 2025](https://www.sciencedirect.com/science/article/abs/pii/S1474034625001016)
+
+Datasets:CWRU,aero-engine,rock drilling rig 
+
+Preprocessing:
+
+Hardware:RTX_4090
+
+key method: LORA
+
+
+- **FaultGPT: Industrial Fault Diagnosis Question Answering System by Vision Language Models**  
+  [Arixv 2025](https://arxiv.org/abs/2502.15481)
+
+Datasets:CWRU, the SCUT-FD and Ottawa bearing dataset
+
+Preprocessing:
+
+Hardware:RTX_4090
+
+key method: 
+
+
 - **LLM-Based Framework for Bearing Fault Diagnosis**  
   [MSSP 2025](https://www.sciencedirect.com/science/article/pii/S0888327024010252)
 
@@ -122,3 +168,4 @@
 For more information, please refer to this [repository](https://github.com/qingsongedu/Awesome-TimeSeries-SpatioTemporal-LM-LLM).
 
 ---
+
