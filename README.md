@@ -33,6 +33,8 @@
 - **How Can Large Language Models Help Humans in Design and Manufacturing?**  
   [Arixv 2023](https://arxiv.org/abs/2307.14377)
 
+---
+
 ### **Evaluation Papers**
 
 #### 2024
@@ -51,7 +53,6 @@
 ---
 
 ### **Research Papers**
-
 
 
 #### 2025
@@ -77,7 +78,6 @@ Datasets:cranes
 
 Datasets:CWRU,aero-engine,rock drilling rig 
 
-Preprocessing:
 
 Hardware:RTX_4090
 
@@ -89,11 +89,11 @@ key method: LORA
 
 Datasets:CWRU, the SCUT-FD and Ottawa bearing dataset
 
-Preprocessing:
+
 
 Hardware:RTX_4090
 
-key method: 
+
 
 
 - **LLM-Based Framework for Bearing Fault Diagnosis**  
@@ -166,3 +166,4 @@ key method:
 For more information, please refer to this [repository](https://github.com/qingsongedu/Awesome-TimeSeries-SpatioTemporal-LM-LLM).
 
 ---
+
