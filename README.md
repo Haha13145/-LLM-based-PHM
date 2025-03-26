@@ -1,5 +1,5 @@
 ---
-# ![Awesome](https://img.shields.io/badge/Awesome-Yes-brightgreen) # ![Last update](https://img.shields.io/badge/Last%20update-20250326-blue) # ![Paper number](https://img.shields.io/badge/Paper%20Number-29-orange)
+# ![Awesome](https://img.shields.io/badge/Awesome-Yes-brightgreen)  ![Last update](https://img.shields.io/badge/Last%20update-20250326-blue)  ![Paper number](https://img.shields.io/badge/Paper%20Number-29-orange)
 
 ### **Review/Perspective Papers**
 
@@ -13,3 +13,12 @@
 #### 2024
 - **Empowering ChatGPT-Like Large-Scale Language Models with Local Knowledge Base for Industrial Prognostics and Health Management**  
   [Arixv 2024](https://arxiv.org/abs/2312.14945)
+
+- **An Outline of Prognostics and Health Management Large Model: Concepts, Paradigms, and Challenges**  
+  [Arixv 2024](https://arxiv.org/abs/2407.03374)
+
+- **Survey on Foundation Models for Prognostics and Health Management in Industrial Cyber-Physical Systems**  
+  [TICPS 2024](https://ieeexplore.ieee.org/abstract/document/10592003)
+
+- **Generative Artificial Intelligence and Data Augmentation for Prognostic and Health Management: Taxonomy, Progress, and Prospects**  
+  [ESWA 2024](https://www.sciencedirect.com/science/article/pii/S0957417424013782)
