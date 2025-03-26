@@ -22,3 +22,13 @@
 
 - **Generative Artificial Intelligence and Data Augmentation for Prognostic and Health Management: Taxonomy, Progress, and Prospects**  
   [ESWA 2024](https://www.sciencedirect.com/science/article/pii/S0957417424013782)
+
+#### 2023
+- **ChatGPT-Like Large-Scale Foundation Models for Prognostics and Health Management: A Survey and Roadmaps**  
+  [RESS 2023](https://www.sciencedirect.com/science/article/abs/pii/S0951832023007640)
+
+- **Industrial-Generative Pre-Trained Transformer for Intelligent Manufacturing Systems**  
+  [IET CIM 2023](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/cim2.12078)
+
+- **How Can Large Language Models Help Humans in Design and Manufacturing?**  
+  [Arixv 2023](https://arxiv.org/abs/2307.14377)
