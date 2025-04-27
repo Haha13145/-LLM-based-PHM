@@ -1,4 +1,4 @@
----
+
 # ![Awesome](https://img.shields.io/badge/Awesome-Yes-brightgreen)  ![Last update](https://img.shields.io/badge/Last%20update-20250427-blue)  ![Paper number](https://img.shields.io/badge/Paper%20Number-38-orange)
 
 ### **Review/Perspective Papers**
@@ -39,7 +39,7 @@
 - **How Can Large Language Models Help Humans in Design and Manufacturing?**  
   [Arixv 2023](https://arxiv.org/abs/2307.14377)
 
----
+
 
 ### **Evaluation Papers**
 
