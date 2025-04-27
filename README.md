@@ -1,10 +1,34 @@
-
 ---
-# ![Awesome](https://img.shields.io/badge/Awesome-Yes-brightgreen)  ![Last update](https://img.shields.io/badge/Last%20update-20250326-blue)  ![Paper number](https://img.shields.io/badge/Paper%20Number-29-orange)
+# ![Awesome](https://img.shields.io/badge/Awesome-Yes-brightgreen)  ![Last update](https://img.shields.io/badge/Last%20update-20250427-blue)  ![Paper number](https://img.shields.io/badge/Paper%20Number-38-orange)
 
 ### **Review/Perspective Papers**
 
 #### 2025
+
+
+- **面向旋转机械装备的智能故障诊断通用基础模型研究**  
+  [西安交通大学学报 2025](https://kns.cnki.net/kcms2/article/abstract?v=HgkNOCd8VPhwifSKiyZY9RqgughynM-nYDrjgDU8zVrFe1PAWyHtcNnvGhaMUJGtBBEJ79fQRrCck2GhUIY52TdIKDkscfx2Fw2daoDHJgx-TmXleWBsTuy2dLMN-_Tlqfi9-qvKpTQ=&uniplatform=NZKPT&language=CHS)
+
+
+- **面向机械设备通用健康管理的智能运维大模型**  
+  [机械工程学报 2025](https://kns.cnki.net/kcms2/article/abstract?v=HgkNOCd8VPhU8iP_26CSlKDnvoTETOCUaZTWIULG7GFtUW26GtbuUBlkgJtzjrIVljRaTfZiWK9wcLEUIgNjT2osPup_DTc66zdT9hIMu_Cblle9GRG3348qhIshVZj2F9mLUYXbiiWF6jzmdvB-xqHjL6TDGPUltw9gbgv_Z9w6ZOlBsPIBxQ==&uniplatform=NZKPT&language=CHS)
+
+
+
+- **LLM-TSFD: An industrial time series human-in-the-loop fault diagnosis method based on a large language model**  
+  [ESWA 2025](https://www.sciencedirect.com/science/article/abs/pii/S0957417424027283)
+
+- **Channel attention residual transfer learning with LLM fine-tuning for few-shot fault diagnosis in autonomous underwater vehicle propellers**  
+  [OE 2025](https://www.sciencedirect.com/science/article/abs/pii/S0029801825009503)
+
+- **UniFault: A Fault Diagnosis Foundation Model from Bearing Data**  
+  [Arixv 2024](https://arxiv.org/abs/2504.01373)
+
+
+
+- **An outline of Prognostics and health management Large Model: Concepts, Paradigms, and challenges**  
+  [MSSP 2025](https://www.sciencedirect.com/science/article/abs/pii/S088832702500384X)
+
 - **A Survey on Potentials, Pathways, and Challenges of Large Language Models in New-Generation Intelligent Manufacturing**  
   [RCIM 2025](https://www.sciencedirect.com/science/article/pii/S0736584524001704)
 
@@ -56,6 +80,21 @@
 ### **Research Papers**
 
 #### 2025
+
+
+
+
+- **Pre-Trained Large Language Model Based Remaining Useful Life Transfer Prediction of Bearing**  
+  [Arixv 2025](https://arxiv.org/abs/2501.07191)
+
+- **LLM-R: A Framework for Domain-Adaptive Maintenance Scheme Generation Combining Hierarchical Agents and RAG**  
+  [Arixv 2025](https://arxiv.org/abs/2411.04476)
+
+
+
+- **Intelligent Fault Diagnosis for CNC Through the Integration of Large Language Models and Domain Knowledge Graphs**  
+  [Engineering 2025](https://www.sciencedirect.com/science/article/pii/S2095809925001948?via%3Dihub)
+
 
 - **The interpretable reasoning and intelligent decision-making based on event knowledge graph with LLMs in fault diagnosis scenarios**  
   [TIM 2025](https://ieeexplore.ieee.org/abstract/document/10925425)
@@ -151,3 +190,4 @@
 For more information, please refer to this [repository](https://github.com/qingsongedu/Awesome-TimeSeries-SpatioTemporal-LM-LLM).
 
 ---
+
