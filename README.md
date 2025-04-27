@@ -9,11 +9,8 @@
 - **面向旋转机械装备的智能故障诊断通用基础模型研究**  
   [西安交通大学学报 2025](https://kns.cnki.net/kcms2/article/abstract?v=HgkNOCd8VPhwifSKiyZY9RqgughynM-nYDrjgDU8zVrFe1PAWyHtcNnvGhaMUJGtBBEJ79fQRrCck2GhUIY52TdIKDkscfx2Fw2daoDHJgx-TmXleWBsTuy2dLMN-_Tlqfi9-qvKpTQ=&uniplatform=NZKPT&language=CHS)
 
-
 - **面向机械设备通用健康管理的智能运维大模型**  
   [机械工程学报 2025](https://kns.cnki.net/kcms2/article/abstract?v=HgkNOCd8VPhU8iP_26CSlKDnvoTETOCUaZTWIULG7GFtUW26GtbuUBlkgJtzjrIVljRaTfZiWK9wcLEUIgNjT2osPup_DTc66zdT9hIMu_Cblle9GRG3348qhIshVZj2F9mLUYXbiiWF6jzmdvB-xqHjL6TDGPUltw9gbgv_Z9w6ZOlBsPIBxQ==&uniplatform=NZKPT&language=CHS)
-
-
 
 - **LLM-TSFD: An industrial time series human-in-the-loop fault diagnosis method based on a large language model**  
   [ESWA 2025](https://www.sciencedirect.com/science/article/abs/pii/S0957417424027283)
@@ -23,8 +20,6 @@
 
 - **UniFault: A Fault Diagnosis Foundation Model from Bearing Data**  
   [Arixv 2024](https://arxiv.org/abs/2504.01373)
-
-
 
 - **An outline of Prognostics and health management Large Model: Concepts, Paradigms, and challenges**  
   [MSSP 2025](https://www.sciencedirect.com/science/article/abs/pii/S088832702500384X)
