@@ -132,6 +132,12 @@
   [AEI 2025](https://www.sciencedirect.com/science/article/pii/S1474034625000278)
 
 #### 2024
+-**BearingFM Towards a foundation model for bearing fault diagnosis by domain knowledge and contrastive learning**
+  [IJPE 2024](https://www.sciencedirect.com/science/article/abs/pii/S0925527324001762)
+
+-**Diff-MTS: Temporal-Augmented Conditional Diffusion-Based AIGC for Industrial Time Series Toward the Large Model Era**
+  [ToC 2024](https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?arnumber=10697287)
+  
 - **Empowering Digital Twins with Large Language Models for Global Temporal Feature Learning**  
   [JMS 2024](https://www.sciencedirect.com/science/article/pii/S0278612524000372)
 
